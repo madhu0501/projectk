@@ -8,10 +8,10 @@
      padding-left: 30px;
      color: white;
      font-weight: bolder;
-     font-size: 34px;
+     font-size: 26px;
 }
 .menu h1:hover{
-     font-size:28px;
+     font-size:34px;
 }
 .menu ul{
      overflow: auto;
@@ -23,7 +23,7 @@
 }
 .menu li a{
      font-size: 20px;
-     padding-right: 50px;
+     padding-right: 25px;
      font-weight:bolder;
      color:white;
 }
@@ -53,8 +53,8 @@ body{
 }
 .top{
      opacity:4;
-     top: -120px;
-     left: 35%;
+     top: 25px;
+     left: 30%;
      width: 33%;
      position: relative;
      }
@@ -79,10 +79,11 @@ strong{
 }
 .section1{
      padding: 2px;
-     width: 41%;
+     width: 50%;
      /* margin: auto; */
      margin-top: -135px;
      margin-left: 481px;
+     margin: auto;
 }
 .section2{
      width: 56%;

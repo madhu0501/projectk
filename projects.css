@@ -8,10 +8,10 @@
      padding-left: 30px;
      color:white;
      font-weight: bolder;
-     font-size: 34px;
+     font-size: 26px;
 }
 .menu h1:hover{
-     font-size:28px;
+     font-size:34px;
 }
 .menu ul{
      overflow: auto;
@@ -54,8 +54,8 @@ body{
 }
 .top{
      opacity:4;
-     top: -36px;
-     left: 35%;
+     top: 25px;
+     left: 31%;
      width: 33%;
      position: relative;
      /* filter: blur(1px); */
@@ -89,6 +89,7 @@ body{
      padding: 15px;
      margin-top: 89px;
      margin-left: 15px;
+     /* padding-top: 50px; */
 }
 .div1 p{
      padding-bottom: 25px;
@@ -181,4 +182,7 @@ a{
 .li2 a i{
      color: white;
      font-size: 35px;
+}
+.z{
+     padding-top: 40px;
 }
